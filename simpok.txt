@@ -7,3 +7,4 @@ SIMPOK
 makanan 
 -tinu 
 -ikan bakar
+-tuna
