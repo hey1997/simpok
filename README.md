@@ -1,2 +1,0 @@
-# simpok
-Reposiroty untuk simpok
